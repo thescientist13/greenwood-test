@@ -16,4 +16,4 @@ class BlogTemplate extends LitElement {
   }
 }
 
-customElements.define('blog-template', BlogTemplate);
+customElements.define('page-template', BlogTemplate);
