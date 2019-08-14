@@ -1,7 +1,7 @@
 import { html, LitElement } from 'lit-element';
 MDIMPORT;
 
-class PageTemplate extends LitElement {
+class BlogTemplate extends LitElement {
 
   constructor() {
     super();
@@ -16,4 +16,4 @@ class PageTemplate extends LitElement {
   }
 }
 
-customElements.define('page-template', PageTemplate);
+customElements.define('blog-template', BlogTemplate);
